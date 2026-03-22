@@ -35,6 +35,8 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
-## 📸 Demo
+## 🚀 Demo
 
-![App Demo](public/geofencing project demo.png)
+<p align="center">
+  <img src="public/geofencing project demo.png" alt="Project Demo" width="700"/>
+</p>
